@@ -1,2 +1,6 @@
 Alvaro Pereira
+<<<<<<< HEAD
 texto desde master jojojojo
+=======
+ASDASDASD
+>>>>>>> test
